@@ -1,0 +1,22 @@
+.slider h3,
+.slider h5,
+.template h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,.5);
+}
+
+.parallax-container{
+	height: 300px;
+}
+
+/*.parallax img{
+	opacity: 0.9 !important;
+}*/
+
+.template img{
+	max-width: 120px;
+}
+
+section,
+footer{
+	padding: 30px 0;
+}
